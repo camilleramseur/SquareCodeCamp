@@ -1,0 +1,40 @@
+body.resources{
+/*	background-color: #ff6666	!important;
+*/}
+
+
+.resources {
+
+	background-color: #ff6666	;
+	height: inherit;
+	padding: 0px;
+	text-align: center;
+	height: 1000px;
+}
+
+
+.resources h2 {
+
+
+	font-size: 24px;
+/*	margin-left: 20px;
+*/	margin-top: 10px;
+	padding-top: 30px;
+
+}
+
+
+.resources ul {
+
+/*	margin-left: 40px;
+*/	color: white;
+}
+
+.resources ul li a {
+	color:white;
+
+}
+
+.slimmer {
+	width: 60%;
+}
